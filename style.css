@@ -1,0 +1,122 @@
+.header
+{
+float: right;
+display: block;
+
+}
+
+.header a 
+{
+    margin: 8px;
+}
+
+.logo
+{
+position: relative;
+height: 130px;
+width: 310px;
+margin-left: auto;
+margin-right: auto;
+top: 225px;
+display: block;
+}
+
+.searchbar{
+
+position: relative;
+
+}
+.searchbar #bar
+{
+height: 40px;width: 500px;
+margin-left:  665px;
+padding-left: 15px;
+margin-top: 220px;
+font-size: 20px;
+border: 1px solid #e5e5e5;
+border-radius: 3%;
+box-shadow: 0px 3px 0px 0px #e5e5e5;
+position: relative;
+}
+
+.searchbar #mic_image
+{
+position: relative;
+display: inline-block;
+right: 40px;
+top: 5px;
+}
+
+.buttons
+{
+ margin-top: 15px;
+ margin-right: 45px;
+ text-align: center;
+}
+
+.buttons button
+{
+margin: 5px;
+width: 172.37px;height: 35.99px;
+font-family: arial,sans-serif;
+font-size: 14px;
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+color: #5F6368;
+}
+
+.offeredin
+{
+text-align: center;
+margin-right: 35px;
+margin-top: 25px;
+
+}
+
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 90px;
+    width: 100%;
+    background: #f2f2f2;
+    color: rgba(0,0,0,.54);
+    font-size: 16px;
+    font-family: arial,sans-serif;
+}
+
+#footer1
+{
+
+padding-top: 15px;
+padding-bottom: 15px;
+margin-left: 20px;
+border-top: 1px solid #e4e4e4;
+
+}
+
+#footer2
+{
+border-top: 1px solid #e4e4e4;
+}
+#footer2_left
+{
+padding-top: 10px;
+float: left;
+
+}
+
+#footer2_right
+{
+padding-top: 10px;
+float: right;
+margin-right: 20px;
+
+}
+
+#footer2 a
+{
+margin-left: 20px;
+
+}
